@@ -3,11 +3,15 @@
     "ignored_packages": [
         "Vintage",
     ],
-    "font_size": 19,
+    "font_size": 16,
     "index_files": true,
     "save_on_focus_lost": true,
-    "color_scheme": "Monokai.sublime-color-scheme",
-    "font_face": "Ubuntu Mono",
+    "color_scheme": "Packages/Monokai++/themes/Monokai++.tmTheme",
+    "font_face": "Iosevka Term SS04",
     "word_wrap": false,
-    "auto_complete": false,
+    "font_options": [
+        "ss04"
+    ],
+    "translate_tabs_to_spaces": true,
+    "highlight_line": true,
 }
