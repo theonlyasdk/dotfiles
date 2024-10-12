@@ -35,6 +35,6 @@ I love the simplicity of GTK apps. Here are some that I use:
 - [Plots](https://flathub.org/apps/com.github.alexhuntley.Plots) - Plotting Calculator
 - [Emblem](https://flathub.org/apps/org.gnome.design.Emblem) - Icon Creator
 - [Norka](https://flathub.org/apps/com.github.tenderowl.norka) - Markdown Editor
-- Letterpress - ASCII Art Generator
+- [Letterpress](https://flathub.org/apps/io.gitlab.gregorni.Letterpress) - ASCII Art Generator
 - [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - YouTube Client
 - [Keypunch](https://flathub.org/apps/dev.bragefuglseth.Keypunch) - Typing Test
