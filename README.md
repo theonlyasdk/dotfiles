@@ -1,2 +1,2 @@
 # Dotfiles
- A copy of configuration files used by applications I use
+A collection of personalized configuration files for optimizing and customizing my Linux installations.
