@@ -12,6 +12,8 @@ else
 fi
 
 ################# BEGIN CUSTOM RC #################
+
+# Some command shortcuts
 alias zshconfig="subl ~/.zshrc"
 alias ohmyzsh="subl ~/.oh-my-zsh"
 alias ls='ls --color=auto'
@@ -27,5 +29,6 @@ alias gadd="git add"
 alias gcommit="git commit"
 
 # flag to enable firefox touchpad support
+# not required most of the times. had to export this once on Kubuntu.
 export MOZ_USE_XINPUT2=1
 ################# END CUSTOM RC #################
