@@ -28,7 +28,7 @@ alias clone="git clone"
 alias gadd="git add"
 alias gcommit="git commit"
 
-# flag to enable firefox touchpad support
-# not required most of the times. had to export this once on Kubuntu.
+# Flag to enable firefox touchpad support
+# Not required if using Wayland
 export MOZ_USE_XINPUT2=1
 ################# END CUSTOM RC #################
