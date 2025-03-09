@@ -1,3 +1,10 @@
+---
+layout: post
+title: "My Windows Setup (As of March 09, 2025)"
+categories: setup-history
+modified_date: 2025-03-09
+---
+
 # My Windows Setup (As of March 09, 2025)
 
 ## Windows Version
