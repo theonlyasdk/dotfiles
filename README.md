@@ -1,4 +1,3 @@
-# Dotfiles
 A collection of personalized configuration files that I use on my personal setup. You will find rc files for shells, settings for IDEs and other applications here.
 
 # Setup History
