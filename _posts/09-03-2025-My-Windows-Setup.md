@@ -5,8 +5,6 @@ categories: setup-history
 modified_date: 2025-03-09
 ---
 
-# My Windows Setup (As of March 09, 2025)
-
 ## Windows Version
 I'm using Windows 10 Pro 22H2
 
