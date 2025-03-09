@@ -5,8 +5,6 @@ categories: setup-history
 modified_date: 2024-10-12
 ---
 
-# My Linux Setup (As of October 12, 2024)
-
 ## Distro
 I'm using Fedora 40
 
