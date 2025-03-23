@@ -2,10 +2,11 @@
     "ignored_packages":
     [
         "Vintage",
+        "Rust",
     ],
     "save_on_focus_lost": true,
     "font_face": "Roboto Mono Regular",
-    "font_size": 13,
+    "font_size": 15,
     "index_files": true,
     "theme": "Adaptive.sublime-theme",
     "font_options": [
@@ -25,7 +26,7 @@
     "auto_complete_commit_on_tab": true,
     "auto_complete_with_fields": false,
     "auto_complete_trailing_symbols": true,
-    "auto_hide_menu": true,
+    "auto_hide_menu": false,
     "auto_hide_tabs": false,
     "hide_pointer_while_typing": true,
     "shift_tab_unindent": true,
