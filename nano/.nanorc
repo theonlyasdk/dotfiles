@@ -1,0 +1,23 @@
+## ~/.nanorc - Enhanced Settings and Syntax Highlighting for GNU nano
+
+set constantshow
+set tabsize 4
+set tabstospaces
+set autoindent
+set mouse
+set afterends
+set emptyline
+set indicator
+set linenumbers
+set magic
+set minibar
+set smarthome
+set trimblanks
+set zap
+
+set numbercolor white
+
+bind ^F forward main
+bind ^B back main
+bind M-F formatter main
+bind M-B linter main
