@@ -1,0 +1,17 @@
+{
+	"font_face": "",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"save_on_focus_lost": true,
+	"scroll_speed": 0,
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Monokai++/themes/Monokai++.tmTheme",
+	"index_files": true,
+	"font_size": 12,
+	"file_tab_style": "angled",
+	"adaptive_dividers": true,
+	"show_line_endings": true,
+	"hardware_acceleration": "opengl",
+}
